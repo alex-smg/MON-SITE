@@ -1,0 +1,154 @@
+@media  screen and (max-width: 769px) {
+
+    #console {
+        display: none;
+    }
+
+    #div-profil {
+        width: 90%;
+        margin: auto;
+    }
+    .lateral-div{
+        margin: auto;
+    }
+    .text-rs{
+        display: none;
+    }
+    .cont-rs{
+        display: none;
+    }
+    .rs-mob{
+        display: flex;
+        justify-content: space-between;
+        margin: auto;
+    }
+    .rs-mob a{
+        width: 30%;
+        opacity: 1;
+    }
+    .rs-mob a img{
+        width: 100%;
+    }
+    .RS{
+        height: 15vw;
+
+    }
+    h2{
+        font-size: 10vw;
+    }
+    #text-dev{
+        width: 90%;
+    }
+    #langage{
+        width: 90%;
+    }
+    .svg-lang{
+        width: 20%;
+    }
+    #display-desk{
+        display: block;
+        width: 90%;
+    }
+    #text-desk{
+        width: 100%;
+        margin: auto;
+    }
+    #los-log{
+        margin: 15% auto 0 auto;
+        width: 70%;
+    }
+    .cont-img-design {
+        width: 100%;
+        z-index: 100;
+       padding: 15% 0 15% 0;
+    }
+    .projet{
+        width: 100%;
+        height: 50vw;
+        margin: 5vh 0 5vh 0;
+    }
+    .cont-projet{
+        display: block;
+    }
+    input, textarea {
+        padding: 7% 7% 7% 7%;
+        width: 95%;
+        height: 6vw;
+
+    }
+    #formmail {
+        padding: 0;
+        width: auto;}
+    #formulaire{
+        width: 100%;
+    }
+    #envoyer{
+        font-size: 5vw;
+    }
+    textarea{
+        height: 25vh;
+    }
+
+    #menu{
+        display: none;
+    }
+    #logo-prenom{
+        margin: auto;
+        width: 70%;
+    }
+    .nav{
+        height: auto;
+    }
+    #logo {
+        width: auto;
+        height: 10vh;
+        margin-right: 3%;
+        padding: 5%;
+    }
+    #logo-prenom {
+        margin: auto;
+        width: 80%;
+        display: flex;
+        justify-content: space-between;
+    }
+    h1{
+        font-size: 7vw;
+    }
+    header{
+        position: inherit;
+    }
+    #div-profil p, #div-profil b {
+        color: #FFFFFF;
+        line-height: 6vw;
+    }
+    .proj p {
+        width: 90%;
+        display: block;
+        margin-top: 5%;
+        line-height: 1.3rem;
+        margin: auto;
+    }
+    .proj h4{
+        font-size: 5vw;
+        width: 90%;
+        display: block;
+        margin: auto;
+    }
+    #content-proj{
+        display: block;
+    }
+    .proj{
+        padding: 5vh 2vh 5vh 2vh;
+        margin: auto;
+    }
+    #titre-form {
+        color: white;
+        font-size: 6vw;
+        width: 95%;
+        display: block;
+        margin: auto;
+    }
+    footer p{
+        font-size: 3.5vw;
+    }
+}
